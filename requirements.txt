@@ -1,0 +1,6 @@
+Plaintext
+fastapi
+uvicorn
+yfinance
+pandas
+requests
